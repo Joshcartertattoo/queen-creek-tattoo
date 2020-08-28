@@ -1,10 +1,14 @@
 ## 10 Big Reasons to move to Queen Creek, Arizona
 
-You can use the [editor on GitHub](https://github.com/Joshcartertattoo/queen-creek-tattoo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+-High quality of life
+-Affordable housing
+-Low crime rate
+-Unique climate
+-Excellent  schools
+-Fantastic Mountain Vistas
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Want to learn more about Queen Creek, Arizona
 
 Are you planning about moving to Queen Creek ? One of the most pleasant and unique cities in Arizona is Queen Creek, and you'll probably notice the unique difference. With Arizona's history that runs deep, Queen Creek is a town that hasn't change its old-time beauty and identity, unlike other places.
 
@@ -24,8 +28,6 @@ Are you planning about moving to Queen Creek ? One of the most pleasant and uniq
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
