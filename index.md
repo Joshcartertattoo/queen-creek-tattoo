@@ -1,4 +1,4 @@
-## 10 Bir Reasons to move to Queen Creek, Arizona
+## 10 Big Reasons to move to Queen Creek, Arizona
 
 You can use the [editor on GitHub](https://github.com/Joshcartertattoo/queen-creek-tattoo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,10 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Are you planning about moving to Queen Creek ? One of the most pleasant and unique cities in Arizona is Queen Creek, and you'll probably notice the unique difference. With Arizona's history that runs deep, Queen Creek is a town that hasn't change its old-time beauty and identity, unlike other places.
 
 ```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
